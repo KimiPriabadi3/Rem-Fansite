@@ -1,0 +1,12 @@
+Taruh foto Rem kamu di folder ini dengan nama file berikut:
+
+rem-hero.jpg      -> foto besar di halaman utama (atas)
+rem-profile.jpg   -> foto di bagian "Profil"
+rem-1.jpg s/d rem-6.jpg -> foto-foto di galeri
+ram-profile.jpg   -> foto di bagian "Kenalan Juga Sama Ram"
+
+Format bisa .jpg atau .png, tapi kalau .png ganti juga ekstensi
+di file index.html (cari src="images/rem-1.jpg" lalu ganti .jpg jadi .png).
+
+Kalau file belum ada, halaman akan otomatis menampilkan kotak placeholder
+biru — jadi situs tetap bisa dibuka meski foto belum ditaruh.

@@ -1,0 +1,12 @@
+Taruh video Rem & Ram di folder ini dengan nama file berikut:
+
+rem-video-1.mp4 s/d rem-video-6.mp4  -> muncul di section "Rem Scene"
+ram-video-1.mp4 s/d ram-video-6.mp4  -> muncul di section "Ram Scene"
+
+Format default yang dipakai di kode adalah .mp4 (paling kompatibel di semua
+browser). Kalau video kamu formatnya beda (misal .mov, .webm, .mkv), kabari
+saya biar rujukannya di index.html disesuaikan — sama seperti kasus foto
+rem-profile yang ternyata .webp bukan .jpg.
+
+Kalau file belum ada, slot video akan otomatis menampilkan kotak placeholder
+biru bertanda "▶" — jadi situs tetap bisa dibuka meski videonya belum ditaruh.
